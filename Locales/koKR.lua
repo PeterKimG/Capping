@@ -13,19 +13,19 @@ L.upgradeToTrigger = "추가 전리품"
 L.droppedTrigger = "([^ ]*)|1이;가; ([^!]*) 깃발을 떨어뜨렸습니다!"
 L.capturedTheTrigger = "([^ ]*)|1이;가; ([^!]*) 깃발 쟁탈에 성공했습니다!"
 
---L.hordeGate = "Horde Gate"
---L.allianceGate = "Alliance Gate"
---L.gatePosition = "%s (%s)"
---L.west = "West"
---L.front = "Front"
---L.east = "East"
---L.hordeBoss = "Horde Boss"
---L.allianceBoss = "Alliance Boss"
---L.galvangar = "Galvangar"
---L.balinda = "Balinda"
---L.ivus = "Ivus"
---L.lokholar = "Lokholar"
---L.handIn = "|cFF33FF99Capping|r: Automatically handing in quest items."
+L.hordeGate = "호드 출입문"
+L.allianceGate = "얼라이언스 출입문"
+L.gatePosition = "%s (%s)"
+L.west = "서쪽"
+L.front = "전방"
+L.east = "동쪽"
+L.hordeBoss = "호드 두목놈"
+L.allianceBoss = "얼라이언스 대장"
+L.galvangar = "갈반가르"
+L.balinda = "발린다"
+L.ivus = "이부스"
+L.lokholar = "로크홀라"
+L.handIn = "|cFF33FF99Capping|r: 자동으로 퀘스트 아이템을 습득합니다."
 
 --- Alliance IoC Workshop yells:
 -- Gnomish Mechanic yells: I'm halfway there! Keep the Horde away from here.  They don't teach fighting in engineering school!
@@ -33,8 +33,8 @@ L.capturedTheTrigger = "([^ ]*)|1이;가; ([^!]*) 깃발 쟁탈에 성공했습�
 --- Horde IoC Workshop yells:
 -- Goblin Mechanic yells: I'm about halfway done! Keep the Alliance away - fighting's not in my contract!
 -- Goblin Mechanic yells: It's broken again?! I'll fix it... just don't expect the warranty to cover this.
---L.halfway = "halfway"
---L.broken = "broken"
+L.halfway = "절반"
+L.broken = "고장난"
 
 -- Wintergrasp
 --L.damaged = "|cFF33FF99Capping|r: %s Damaged"
